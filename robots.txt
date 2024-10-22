@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://udisinqu.github.io/udisinqu.udisinqu
+Sitemap: https://udisinqu.github.io/app/udisinqu.udisinqu
+Sitemap: https://udisinqu.github.io/assets/udisinqu.udisinqu
+Sitemap: https://udisinqu.github.io/css/udisinqu.udisinqu
+Sitemap: https://udisinqu.github.io/includes/udisinqu.udisinqu
+Sitemap: https://udisinqu.github.io/item/udisinqu.udisinqu
+Sitemap: https://udisinqu.github.io/src/udisinqu.udisinqu
